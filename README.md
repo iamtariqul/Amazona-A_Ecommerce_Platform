@@ -1,4 +1,4 @@
-# Amazona -a online ecommorce platform
+# Amazona -a online ecommerce platform
 
 ## Using here
 
